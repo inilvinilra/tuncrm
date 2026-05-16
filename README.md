@@ -203,8 +203,7 @@ TunCRM Development Team
 
 ## 📞 İletişim
 
-- **GitHub**: [@daghlar](https://github.com/daghlar)
-- **Email**: info@tuncrm.com
+- **GitHub**: [@inilvinilra](https://github.com/inilvinilra)
 - **Website**: https://github.com/daghlar/tuncrm
 
 ## 🎉 Teşekkürler
